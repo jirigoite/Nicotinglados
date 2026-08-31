@@ -160,7 +160,7 @@ body {
     linear-gradient(
       135deg,
       var(--primary),
-      #d86f0f
+      #FFCD9E
     );
 
   color: var(--primary-text);
